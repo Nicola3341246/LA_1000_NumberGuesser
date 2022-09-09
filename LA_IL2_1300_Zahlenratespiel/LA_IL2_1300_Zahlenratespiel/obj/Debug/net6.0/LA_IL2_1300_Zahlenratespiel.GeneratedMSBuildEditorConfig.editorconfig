@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LA_IL2_1300_Zahlenratespiel
+build_property.ProjectDir = C:\Users\Schule\Documents\2. Schuljahr\BBB\Lernatelier\LA_ILA2_1300\Programm\LA_IL2_1300_Zahlenratespiel\LA_IL2_1300_Zahlenratespiel\

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LA_IL2_1300_Zahlenratespiel/1.0.0": {
+        "runtime": {
+          "LA_IL2_1300_Zahlenratespiel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LA_IL2_1300_Zahlenratespiel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

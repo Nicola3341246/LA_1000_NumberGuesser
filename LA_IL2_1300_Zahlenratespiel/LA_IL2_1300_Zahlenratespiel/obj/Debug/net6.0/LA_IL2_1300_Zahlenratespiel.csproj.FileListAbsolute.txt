@@ -1,0 +1,15 @@
+C:\Users\Schule\Documents\2. Schuljahr\BBB\Lernatelier\LA_ILA2_1300\Programm\LA_IL2_1300_Zahlenratespiel\LA_IL2_1300_Zahlenratespiel\bin\Debug\net6.0\LA_IL2_1300_Zahlenratespiel.exe
+C:\Users\Schule\Documents\2. Schuljahr\BBB\Lernatelier\LA_ILA2_1300\Programm\LA_IL2_1300_Zahlenratespiel\LA_IL2_1300_Zahlenratespiel\bin\Debug\net6.0\LA_IL2_1300_Zahlenratespiel.deps.json
+C:\Users\Schule\Documents\2. Schuljahr\BBB\Lernatelier\LA_ILA2_1300\Programm\LA_IL2_1300_Zahlenratespiel\LA_IL2_1300_Zahlenratespiel\bin\Debug\net6.0\LA_IL2_1300_Zahlenratespiel.runtimeconfig.json
+C:\Users\Schule\Documents\2. Schuljahr\BBB\Lernatelier\LA_ILA2_1300\Programm\LA_IL2_1300_Zahlenratespiel\LA_IL2_1300_Zahlenratespiel\bin\Debug\net6.0\LA_IL2_1300_Zahlenratespiel.dll
+C:\Users\Schule\Documents\2. Schuljahr\BBB\Lernatelier\LA_ILA2_1300\Programm\LA_IL2_1300_Zahlenratespiel\LA_IL2_1300_Zahlenratespiel\bin\Debug\net6.0\LA_IL2_1300_Zahlenratespiel.pdb
+C:\Users\Schule\Documents\2. Schuljahr\BBB\Lernatelier\LA_ILA2_1300\Programm\LA_IL2_1300_Zahlenratespiel\LA_IL2_1300_Zahlenratespiel\obj\Debug\net6.0\LA_IL2_1300_Zahlenratespiel.csproj.AssemblyReference.cache
+C:\Users\Schule\Documents\2. Schuljahr\BBB\Lernatelier\LA_ILA2_1300\Programm\LA_IL2_1300_Zahlenratespiel\LA_IL2_1300_Zahlenratespiel\obj\Debug\net6.0\LA_IL2_1300_Zahlenratespiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Schule\Documents\2. Schuljahr\BBB\Lernatelier\LA_ILA2_1300\Programm\LA_IL2_1300_Zahlenratespiel\LA_IL2_1300_Zahlenratespiel\obj\Debug\net6.0\LA_IL2_1300_Zahlenratespiel.AssemblyInfoInputs.cache
+C:\Users\Schule\Documents\2. Schuljahr\BBB\Lernatelier\LA_ILA2_1300\Programm\LA_IL2_1300_Zahlenratespiel\LA_IL2_1300_Zahlenratespiel\obj\Debug\net6.0\LA_IL2_1300_Zahlenratespiel.AssemblyInfo.cs
+C:\Users\Schule\Documents\2. Schuljahr\BBB\Lernatelier\LA_ILA2_1300\Programm\LA_IL2_1300_Zahlenratespiel\LA_IL2_1300_Zahlenratespiel\obj\Debug\net6.0\LA_IL2_1300_Zahlenratespiel.csproj.CoreCompileInputs.cache
+C:\Users\Schule\Documents\2. Schuljahr\BBB\Lernatelier\LA_ILA2_1300\Programm\LA_IL2_1300_Zahlenratespiel\LA_IL2_1300_Zahlenratespiel\obj\Debug\net6.0\LA_IL2_1300_Zahlenratespiel.dll
+C:\Users\Schule\Documents\2. Schuljahr\BBB\Lernatelier\LA_ILA2_1300\Programm\LA_IL2_1300_Zahlenratespiel\LA_IL2_1300_Zahlenratespiel\obj\Debug\net6.0\refint\LA_IL2_1300_Zahlenratespiel.dll
+C:\Users\Schule\Documents\2. Schuljahr\BBB\Lernatelier\LA_ILA2_1300\Programm\LA_IL2_1300_Zahlenratespiel\LA_IL2_1300_Zahlenratespiel\obj\Debug\net6.0\LA_IL2_1300_Zahlenratespiel.pdb
+C:\Users\Schule\Documents\2. Schuljahr\BBB\Lernatelier\LA_ILA2_1300\Programm\LA_IL2_1300_Zahlenratespiel\LA_IL2_1300_Zahlenratespiel\obj\Debug\net6.0\LA_IL2_1300_Zahlenratespiel.genruntimeconfig.cache
+C:\Users\Schule\Documents\2. Schuljahr\BBB\Lernatelier\LA_ILA2_1300\Programm\LA_IL2_1300_Zahlenratespiel\LA_IL2_1300_Zahlenratespiel\obj\Debug\net6.0\ref\LA_IL2_1300_Zahlenratespiel.dll
