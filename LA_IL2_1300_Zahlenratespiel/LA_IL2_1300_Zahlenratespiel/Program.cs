@@ -52,6 +52,7 @@ namespace LA_IL2_1300_Zahlenratespiel
                 }
 
                 exitLoop = GetBoolean("Wollen sie weiter spielen?[y/n]");
+                Console.Clear();
             } while (exitLoop);
         }
 
