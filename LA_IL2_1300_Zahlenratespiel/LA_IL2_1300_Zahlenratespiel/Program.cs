@@ -63,13 +63,13 @@ namespace LA_IL2_1300_Zahlenratespiel
             Random rd = new Random();
             int numberToFind = rd.Next(minNumber, maxNumber + 1);
 
-            Console.WriteLine("Die Zahl wurde Generiert.");
+            Console.WriteLine("Die Zahl wurde generiert.");
             int tries = 0;
 
             do
             {
                 tries++;
-                Console.WriteLine($"Die Zahl is zwischen {minNumber} and {maxNumber}.");
+                Console.WriteLine($"Die Zahl ist zwischen {minNumber} and {maxNumber}.");
                 int playerGuess = GetInt(false, 1, 1);
                 Console.Clear();
 
@@ -188,7 +188,7 @@ namespace LA_IL2_1300_Zahlenratespiel
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("Der Input ist Inkorrekt!");
+                    Console.WriteLine("Der Input ist inkorrekt!");
                 }
             }
         }
